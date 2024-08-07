@@ -1,35 +1,19 @@
-# Analysis of Payment Type Impact on Fare Amounts for NYC Taxi Rides
+**Project Title: Analysis of Payment Type Impact on Fare Amounts for NYC Taxi Rides**
 
-## Project Overview
+**Description:**
+This repository contains the code and analysis for a project analyzing the relationship between fare amount and payment type for the New York City Taxi & Limousine Commission (NYC TLC). The primary goal is to determine if there is a significant difference in fare amounts based on whether customers pay by credit card or cash.
 
-This project involves analyzing NYC taxi ride data to explore the impact of payment types (credit card vs. cash) on fare amounts. The analysis was conducted as part of the Automatidata initiative, focusing on real-world data provided by the New York City Taxi & Limousine Commission.
+**Contents:**
+1. **Data Loading and Preparation:** Loading and preprocessing the dataset.
+2. **Exploratory Data Analysis (EDA):** Descriptive statistics, data visualization, and correlation analysis.
+3. **Data Cleaning:** Removing or imputing missing values, handling outliers.
+4. **Hypothesis Testing:** Conducting an A/B test to analyze the difference in fare amounts between different payment types.
+5. **Results and Insights:** Summarizing findings and business implications.
 
-## Role
-
-Data Analyst
-
-## Description
-
-- **Objective:** Investigate how different payment types affect taxi fare amounts.
-- **Data Source:** NYC taxi ride dataset provided by the New York City Taxi & Limousine Commission.
-
-## Key Responsibilities
-
-- **Data Cleaning & Preprocessing:** Handled missing values, outliers, and inconsistencies to prepare the dataset for analysis.
-- **Exploratory Data Analysis (EDA):** Summarized and visualized key characteristics of the data to identify patterns and trends.
-- **Hypothesis Testing:** Used statistical methods (A/B testing) to determine differences in fare amounts between credit card and cash payments.
-- **Tools Used:** Employed Python libraries including Pandas, NumPy, and SciPy for data manipulation and analysis.
-- **Reporting:** Presented findings through detailed reports and visualizations to highlight key insights.
-
-## Key Findings
-
-- **Significant Difference:** Found a statistically significant difference in average fare amounts between credit card and cash payments.
-- **Revenue Insights:** Offered recommendations on optimizing revenue based on observed payment method trends.
-
-## Skills Demonstrated
-
-- Data Analysis
-- Hypothesis Testing
-- Python Programming
-- Statistical Analysis
-- Data Visualization
+**Technologies Used:**
+- Python
+- Pandas
+- NumPy
+- SciPy
+- Matplotlib
+- Seaborn
